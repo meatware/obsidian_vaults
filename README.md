@@ -1,1 +1,3 @@
-# obsidian_vaults
+# Obsidian Vaults
+
+A place to store info
