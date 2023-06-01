@@ -44,24 +44,24 @@
             }
           },
           {
-            "id": "b8a3ec2680bba346",
+            "id": "7cae06160e7bc635",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buy to let/contents/Better to get interest only Mortgage as a BTL Index?.md",
+                "file": "Buy to let/contents/Living in your own BTL Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a4a868288702be80",
+            "id": "a74a2e27d2940482",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buy to let/contents/Better to get interest only Mortgage as a BTL Index?.md",
+                "file": "Buy to let/contents/Is It Illegal To Live In Your Buy To Let Property?.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Buy to let/contents/Better to get interest only Mortgage as a BTL Index?.md",
+                "file": "Buy to let/contents/Living in your own BTL Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Buy to let/contents/Better to get interest only Mortgage as a BTL Index?.md",
+                "file": "Buy to let/contents/Living in your own BTL Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Buy to let/contents/Better to get interest only Mortgage as a BTL Index?.md"
+                "file": "Buy to let/contents/Living in your own BTL Index.md"
               }
             }
           }
@@ -215,20 +215,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d23e5ab06e21008e",
+  "active": "7cae06160e7bc635",
   "lastOpenFiles": [
-    "Should you choose a repayment or interest-only Buy to Let mortgage?.md",
-    "Buy to let/contents/Better to get interest only Mortgage as a BTL Index?.md",
-    "Why are buy-to-let mortgages interest only?.md",
-    "mortgage advice Beureau.md",
+    "Buy to let/contents/Is It Illegal To Live In Your Buy To Let Property?.md",
+    "Buy to let/contents/Living in your own BTL Index.md",
     "Buy to let/Buy to let index.md",
+    "Strategy/Strategy Index.md",
+    "Buy to let/contents/Better to get interest only Mortgage as a BTL Index?.md",
+    "Buy to let/contents/Should you choose a repayment or interest-only Buy to Let mortgage?.md",
+    "Buy to let/contents/Why are buy-to-let mortgages interest only?.md",
+    "Buy to let/contents/mortgage advice Beureau.md",
     "Buy to let/contents/Buy to let financing.md",
     "Buy to let/contents/This is Money 1.md",
     "Buy to let/contents/What is Remortgaging 2.md",
     "Buy to let/contents/What is Remortgating 1?.md",
     "Buy to let/contents/What are bridging loans and how do they work 1?.md",
     "Buy to let/contents/rental yield.md",
-    "Strategy/Strategy Index.md",
     "index.md",
     "Buy to let/contents/Risks of negative equity.md",
     "Buy to let/contents/Buy to let for private Landlords 2.md",
@@ -242,8 +244,6 @@
     "Strategy",
     "Limited company/contents/Directors Loan Tax.md",
     "Limited company/contents/Directors Loans.md",
-    "Limited company/contents/Personal Money 1.md",
-    "Mortgage Types/Mortgate Types Index.md",
     "Limited company/contents",
     "Mortgage Types"
   ]

@@ -12,7 +12,7 @@
 
 [[Better to get interest only Mortgage as a BTL Index?]]
 
-Living in your own BTL
+[[Living in your own BTL Index]]
 
 
 
