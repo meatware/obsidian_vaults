@@ -4,6 +4,6 @@ property## 1. [[Buy to let index]]
 
 ## 3. [[Limited Company index]]
 
-
+4. [[Strategy Index]]
 
 

@@ -73,50 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Limited company/contents/Wifey 1.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0764dfab14d52dd7",
+            "id": "c977ac78e9c8d83f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Limited company/contents/Directors Loan Tax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "520804747f3f2b5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Limited company/contents/Directors Loans.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fad1f2fee3b379a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Limited company/contents/Personal Money 1.md",
+                "file": "Strategy/Strategy Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -190,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Limited company/contents/Personal Money 1.md",
+                "file": "Strategy/Strategy Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Limited company/contents/Personal Money 1.md",
+                "file": "Strategy/Strategy Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Limited company/contents/Personal Money 1.md"
+                "file": "Strategy/Strategy Index.md"
               }
             }
           }
@@ -253,15 +229,17 @@
   },
   "active": "665bf94d5465c1f9",
   "lastOpenFiles": [
+    "index.md",
+    "Strategy/Strategy Index.md",
+    "Limited company/contents/Wifey 1.md",
+    "Strategy",
+    "Limited company/contents/Directors Loan Tax.md",
+    "Limited company/contents/Directors Loans.md",
+    "Limited company/contents/Personal Money 1.md",
     "Limited company/contents/Contributing to your pension via a PLC.md",
     "Limited company/Limited Company index.md",
     "Limited company/contents/Director Pension.md",
     "Limited company/contents/Wifey 2.md",
-    "Limited company/contents/Wifey 1.md",
-    "Limited company/contents/Directors Loan Tax.md",
-    "Limited company/contents/Directors Loans.md",
-    "Limited company/contents/Personal Money 1.md",
-    "index.md",
     "Mortgage Types/Mortgate Types Index.md",
     "Buy to let/Buy to let index.md",
     "Buy to let/contents/Buy to let financing.md",

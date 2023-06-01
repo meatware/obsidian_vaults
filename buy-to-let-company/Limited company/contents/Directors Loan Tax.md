@@ -36,7 +36,6 @@ Again, you need to report the interest on your personal [Self-Assessment Tax Re
 
 **3) Corporation Tax**
 
-If your overdrawn director’s loan account has not been repaid nine months and one day after the end of your a
-ccounting period, your company will have an additional corporation tax bill to pay.
+If your overdrawn director’s loan account has not been repaid nine months and one day after the end of your accounting period, your company will have an additional corporation tax bill to pay.
 
 However, when the loan is subsequently cleared, your company can reclaim the additional Corporation Tax it has paid. Unfortunately, you can’t reclaim any interest paid on the Corporation Tax.
