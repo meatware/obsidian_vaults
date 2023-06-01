@@ -6,7 +6,7 @@ Changes to mortgage interest relief and a surcharge on stamp duty for second hom
 
 Property price growth has slowed in recent years, making buying to let more risky than it has been in the past.
 
-Furthermore, the government has clamped down on the [buy-to-let](https://www.unbiased.co.uk/discover/mortgages-property/buy-to-let-renting/buy-to-let-guide) market in recent years with changes to the tax system. Firstly, in 2016 it added a [3% surcharge in stamp duty](https://www.unbiased.co.uk/discover/mortgages-property/buy-to-let-renting/do-i-need-to-pay-additional-buy-to-let-stamp-duty) on additional properties, such as second homes and buy-to-let properties.
+Furthermore, the government has clamped down on the [buy-to-let](https://www.unbiased.co.uk/discover/mortgages-property/buy-to-let-renting/buy-to-let-guide) market in recent years with changes to the tax system. Firstly, in 2016 it added a [3% surcharge in stamp duty](https://www.unbiased.co.uk/discover/mortgages-property/buy-to-let-renting/do-i-need-to-pay-additional-buy-to-let-stamp-duty) on additional properties, such as second homes and buy-to-let properties.
 
 Secondly, since 2017 the government has been [reducing mortgage interest relief](https://www.unbiased.co.uk/news/financial-adviser/three-ways-to-cope-with-losing-buy-to-let-tax-relief). The previous scheme enabled landlords to deduct the interest they pay on their mortgage before paying tax.
 

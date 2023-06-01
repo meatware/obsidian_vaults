@@ -3,11 +3,11 @@
 What you saved, beg borrow or steal.
 
 
-## 2. Bridging loan
+## 2. Bridging loan (short-term not so useful)
 
 [[What are bridging loans and how do they work 1?]]
 
-## 3. Remortgaging existing property
+## 3. Remortgaging existing property on when you know you’ll have your funds available (for example when the sale of your house has gone through). This type of loan is usually cheaper than an open bridging loan because there is less flexibility available around rety (switching morgate?properased)
 
 [[What is Remortgating 1?]]
 

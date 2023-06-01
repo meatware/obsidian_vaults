@@ -6,6 +6,22 @@ Here's how to work out rental yield:
 
 3. Multiply this figure by 100. The result is your rental yield percentage.
 
+## Leeds House Rental yield
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Rent is £1,250/month
+= £15,000/year
+
+House cost = £183,000
+
+15,000/183,000 = 8.2%
+
+But, expenses & taxes make this less
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
 ## Rent to students = 3 bed house
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 assume rent is £350/month

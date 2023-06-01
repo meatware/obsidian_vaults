@@ -10,7 +10,9 @@
 
 [[Buy to let financing]]
 
-Better to get interest only Mortgage as a B2L?
+[[Better to get interest only Mortgage as a BTL Index?]]
+
+Living in your own BTL
 
 
 
