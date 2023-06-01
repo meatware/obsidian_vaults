@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "796bd0785e9eefa7",
+        "id": "a4e536867d20b89c",
         "type": "tabs",
         "children": [
           {
-            "id": "5d8626d20cb8fbb2",
+            "id": "59b46db7c50e1655",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Limited company/contents/Contributing to your pension via a PLC.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "97cb7fa97cbf04b6",
+            "id": "a53b5d7d1c3c1303",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +32,43 @@
             }
           },
           {
-            "id": "f9e530177a4161c4",
+            "id": "d7b929469da359f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wifey 2.md",
+                "file": "Limited company/contents/Contributing to your pension via a PLC.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cfb27391dcfab4fd",
+            "id": "25e3211473359c54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Limited company/contents/Director Pension.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09c9086616dc5514",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Limited company/contents/Wifey 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1dfcc23207ec1a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,103 +80,19 @@
             }
           },
           {
-            "id": "e7d473a99b3037c9",
+            "id": "0764dfab14d52dd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Limited company/Limited Company index.md",
+                "file": "Limited company/contents/Directors Loan Tax.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "298a8a7eae542608",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Limited company/Limited Company index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4d49a5efc18c84a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Limited company/Limited Company index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ff64673d3c17ea8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Limited company/contents/Contributing to your pension via a PLC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ebe3d8b5e5704a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Director Pension.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ce33a8aa4bc07b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Directors Loan Tax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2f72371718f073f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Limited company/contents/Personal Money 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac0ccb222176a67a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Limited company/contents/Personal Money 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7d37cd9a55682a7",
+            "id": "520804747f3f2b5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fad1f2fee3b379a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Limited company/contents/Personal Money 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -238,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wifey 2.md",
+                "file": "Limited company/contents/Personal Money 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wifey 2.md",
+                "file": "Limited company/contents/Personal Money 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wifey 2.md"
+                "file": "Limited company/contents/Personal Money 1.md"
               }
             }
           }
@@ -299,26 +251,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9e530177a4161c4",
+  "active": "665bf94d5465c1f9",
   "lastOpenFiles": [
-    "Limited company/Limited Company index.md",
-    "Wifey 2.md",
-    "Limited company/contents/Wifey 1.md",
     "Limited company/contents/Contributing to your pension via a PLC.md",
-    "Director Pension.md",
-    "Directors Loan Tax.md",
+    "Limited company/Limited Company index.md",
+    "Limited company/contents/Director Pension.md",
+    "Limited company/contents/Wifey 2.md",
+    "Limited company/contents/Wifey 1.md",
+    "Limited company/contents/Directors Loan Tax.md",
     "Limited company/contents/Directors Loans.md",
     "Limited company/contents/Personal Money 1.md",
+    "index.md",
+    "Mortgage Types/Mortgate Types Index.md",
+    "Buy to let/Buy to let index.md",
     "Buy to let/contents/Buy to let financing.md",
     "Limited company/contents",
     "Buy to let/contents/What is Remortgaging 2.md",
-    "Buy to let/Buy to let index.md",
     "Buy to let/contents/What are bridging loans and how do they work 1?.md",
     "Buy to let/contents/What is Remortgating 1?.md",
     "What is Remortgaging 1?.md",
-    "Mortgage Types/Mortgate Types Index.md",
     "Buy to let/contents/Risks of negative equity.md",
-    "index.md",
     "Buy to let/contents/House prices - May 11th 2023.md",
     "Mortgage Types",
     "Buy to let/contents/Buy to let for private Landlords 2.md",

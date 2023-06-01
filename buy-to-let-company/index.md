@@ -1,4 +1,4 @@
-## 1. [[Buy to let index]]
+property## 1. [[Buy to let index]]
 
 ## 2. [[Mortgate Types Index]]
 
