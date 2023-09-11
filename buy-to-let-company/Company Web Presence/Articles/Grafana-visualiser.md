@@ -1,0 +1,3 @@
+
+![[rk_grafana.drawio.png]]
+This service provides Grafana with AWS Cloudwatch as a data source. It is useful because specific AWS IAM permissions do not need to be created or maintained. The dashboards that can be created are much nicer than the ones CloudWatch provides and the service can also be across multiple AWS accounts. All configuration is stored on an EFS drive so the Grafana client can be easily upgraded with minimal data loss risk.

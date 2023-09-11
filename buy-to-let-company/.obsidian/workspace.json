@@ -6,81 +6,78 @@
       {
         "id": "a4e536867d20b89c",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "59b46db7c50e1655",
+            "id": "b1053217ff2f9a4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Company Web Presence/Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2e362621d4958e27",
+            "id": "6c07c425aedde802",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strategy/Strategy Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c977ac78e9c8d83f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Buy to let/Buy to let index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cae06160e7bc635",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Buy to let/contents/Living in your own BTL Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a74a2e27d2940482",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Buy to let/contents/Is It Illegal To Live In Your Buy To Let Property?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d23e5ab06e21008e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Buy to let/contents/Better to get interest only Mortgage as a BTL Index?.md",
+                "file": "Company Web Presence/main_pages/Services.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
+      },
+      {
+        "id": "192e8da7f0d36fc2",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "261e36d9090b0fc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Company Web Presence/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2ed797fcd1cc7c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Company Web Presence/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b363c7beb48591e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Company Web Presence/main_pages/chatgpt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Buy to let/contents/Living in your own BTL Index.md",
+                "file": "Company Web Presence/main_pages/Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Buy to let/contents/Living in your own BTL Index.md",
+                "file": "Company Web Presence/main_pages/Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Buy to let/contents/Living in your own BTL Index.md"
+                "file": "Company Web Presence/main_pages/Services.md"
               }
             }
           }
@@ -215,35 +212,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cae06160e7bc635",
+  "active": "6c07c425aedde802",
   "lastOpenFiles": [
-    "Buy to let/contents/Is It Illegal To Live In Your Buy To Let Property?.md",
-    "Buy to let/contents/Living in your own BTL Index.md",
-    "Buy to let/Buy to let index.md",
-    "Strategy/Strategy Index.md",
-    "Buy to let/contents/Better to get interest only Mortgage as a BTL Index?.md",
-    "Buy to let/contents/Should you choose a repayment or interest-only Buy to Let mortgage?.md",
-    "Buy to let/contents/Why are buy-to-let mortgages interest only?.md",
-    "Buy to let/contents/mortgage advice Beureau.md",
-    "Buy to let/contents/Buy to let financing.md",
-    "Buy to let/contents/This is Money 1.md",
-    "Buy to let/contents/What is Remortgaging 2.md",
-    "Buy to let/contents/What is Remortgating 1?.md",
-    "Buy to let/contents/What are bridging loans and how do they work 1?.md",
-    "Buy to let/contents/rental yield.md",
+    "Company Web Presence/main_pages/chatgpt.md",
+    "Company Web Presence/Index.md",
+    "Company Web Presence/main_pages/home.md",
+    "Company Web Presence/main_pages/Services.md",
+    "Company Web Presence/main_pages/main_pages.zip",
+    "Company Web Presence/main_pages/PRIVACY POLICY.md",
+    "Company Web Presence/main_pages/home_main_points.md",
+    "Company Web Presence/main_pages/Contact.md",
     "index.md",
-    "Buy to let/contents/Risks of negative equity.md",
-    "Buy to let/contents/Buy to let for private Landlords 2.md",
-    "Buy to let/contents/Buy to let for private Landlords.md",
-    "Buy to let/contents/House prices - May 11th 2023.md",
-    "Limited company/Limited Company index.md",
-    "Limited company/contents/Contributing to your pension via a PLC.md",
-    "Limited company/contents/Director Pension.md",
-    "Limited company/contents/Wifey 2.md",
-    "Limited company/contents/Wifey 1.md",
+    "Company Web Presence/webdesign notes.md",
+    "Company Web Presence/Articles/rk_grafana.drawio.png",
+    "Company Web Presence/main_pages",
+    "webdesign_notes.md",
+    "Company Web Presence/Articles/Terraform Folder Structure.md",
+    "Company Web Presence/Articles/Monitoring Ephemeral Environments.md",
+    "Company Web Presence/Articles/Grafana-visualiser.md",
+    "Company Web Presence/Articles/Bamboo-Permission-Enforcer.md",
+    "Company Web Presence/Articles/System Architecture_all.md",
+    "Company Web Presence/Articles/rk_ecr_scanner.drawio.png",
+    "Company Web Presence/Articles/Terraform-PR-Enforcer.md",
+    "Company Web Presence/Articles/rk_bamboo_perm_enforcer.drawio.png",
+    "Company Web Presence/Articles/ECR-Security-Scanner.md",
+    "Company Web Presence/Articles/Terraform-Module-Manger.md",
+    "Company Web Presence/Articles/rk-terraform-module-manager.drawio.png",
+    "Company Web Presence/Articles/rk_terraform_pr_enforcer.drawio.png",
+    "Company Web Presence/Articles/Jira Release page generator.md",
+    "Company Web Presence/Articles/Cloudwatch-Alerter - A  reusable Terraform module.md",
+    "Company Web Presence/Articles/rk_sqs_alerter.drawio.png",
+    "Company Web Presence/Articles/release_page_generator.drawio.png",
+    "Buy to let/contents/Better to get interest only Mortgage as a BTL Index?.md",
+    "Buy to let/contents/Is It Illegal To Live In Your Buy To Let Property?.md",
+    "Strategy/Strategy Index.md",
+    "Buy to let/Buy to let index.md",
+    "Company Web Presence/Articles/Girish_Monitoring_Solution.doc",
+    "Strategy/contents/Gorilla Acc Points Sumarised.md",
+    "Company Web Presence/Articles",
+    "Company Web Presence",
+    "Strategy/contents/Gorillia Accountant points 1.md",
+    "Strategy/contents",
     "Strategy",
-    "Limited company/contents/Directors Loan Tax.md",
-    "Limited company/contents/Directors Loans.md",
     "Limited company/contents",
     "Mortgage Types"
   ]
